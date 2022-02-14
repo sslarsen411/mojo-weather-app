@@ -1,0 +1,10 @@
+.search {
+  height: 4rem;
+  font-size: 1.8rem;
+  font-family: "Varela Round", sans-serif;
+  color: #303030;
+  text-align: right;
+  padding: 0 1rem;
+  border: solid 1px lightgrey;
+  border-radius: 1rem;
+}
